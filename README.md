@@ -13,7 +13,7 @@ O Slider Pokémon foi criado com foco em praticar e demonstrar habilidades em ma
 
 * HTML5
 * CSS3
-* JavaScript (vanilla)
+* JavaScript 
 
 ## 🎯 Objetivos do projeto
 
